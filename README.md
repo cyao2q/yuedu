@@ -4,6 +4,8 @@
 
 <https://cyao2q.github.io/yuedu/shuyuan>
 
+<https://gcore.jsdelivr.net/gh/cyao2q/yuedu/shuyuan>
+
 <https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/yuedu/master/shuyuan>
 
 ![image](https://user-images.githubusercontent.com/10820724/185269283-0bb00b73-d247-4aae-9566-f5d74d6f10bf.png)
