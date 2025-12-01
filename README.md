@@ -6,8 +6,6 @@
 
 <https://gcore.jsdelivr.net/gh/cyao2q/yuedu/shuyuan>
 
-<https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/yuedu/master/shuyuan>
-
 ### 二维码导入书源
 <img src="./images/shuyuan.png" />
 
