@@ -1,5 +1,7 @@
 # 阅读书源自用
 
+### [支付宝捐赠链接](alipayqr://platformapi/startapp?saId=10000007&qrcode=https%3A%2F%2Fqr.alipay.com%2Ffkx196307iezhvjarhfygd4)
+
 ### 导入链接
 
 <https://cyao2q.github.io/yuedu/shuyuan>
